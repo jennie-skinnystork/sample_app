@@ -1,4 +1,5 @@
 class StaticPagesController < ApplicationController
+<<<<<<< HEAD
 
   def home
   end
@@ -9,3 +10,10 @@ class StaticPagesController < ApplicationController
   def about
   end
 end
+=======
+  def home
+  end
+  def help
+  end
+end
+>>>>>>> static-pages
